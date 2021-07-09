@@ -1,0 +1,14 @@
+h2 {
+	display: flex;
+	justify-content: center;
+	color: blue;
+	font-size: 50px;
+	background-color: lightcyan;
+	width: 400px;
+
+}
+p {
+	width: 100%;
+	color: brown;
+	background-color: lightcyan;
+}
